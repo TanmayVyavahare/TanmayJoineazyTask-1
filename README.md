@@ -219,18 +219,7 @@ To run a full end-to-end API verification:
     node scripts/verify-e2e.js
     ```
 
----
 
-## 📋 Submission Checklist (Joineazy)
-
-- [ ] Code pushed to a public GitHub repository.
-- [ ] Working demo video recorded and uploaded (YouTube/Loom/Google Drive).
-- [ ] PDF document `FullName-Task1.pdf` prepared with:
-    - GitHub Link
-    - Demo Video Link
-- [ ] Submit via [Google Form](https://forms.gle/veLD9rCPcDgbBsyH6).
-
----
 
 ## 📂 Project Structure
 

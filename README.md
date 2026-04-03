@@ -209,18 +209,6 @@ erDiagram
 
 ---
 
-## 🧪 Testing
-
-To run a full end-to-end API verification:
-1.  Ensure the backend is running at `http://localhost:5000`.
-2.  Run the verification script:
-    ```bash
-    cd backend
-    node scripts/verify-e2e.js
-    ```
-
-
-
 ## 📂 Project Structure
 
 ```text

@@ -145,7 +145,7 @@ graph TD
 
 ---
 
-## 📊 Database Schema & Relationships
+## 📊 Database Schema & Relationship
 
 The project uses MongoDB with optimized indexing for performance.
 
